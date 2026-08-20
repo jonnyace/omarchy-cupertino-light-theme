@@ -1,0 +1,26 @@
+normal-color        = "#1D1D1F"
+normal-fill-alpha   = 0.04
+normal-border       = "#8E8E93"
+normal-border-width = 1
+normal-border-alpha = 0.28
+
+hover-cursor-color        = "#007AFF"
+hover-cursor-fill-alpha   = 0.10
+hover-cursor-border       = "#007AFF"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.45
+
+focus-color        = "#1D1D1F"
+focus-fill-alpha   = 0.08
+focus-border       = "#007AFF"
+focus-border-width = 2
+focus-border-alpha = 0.75
+
+selected-color        = "#007AFF"
+selected-fill-alpha   = 0.14
+selected-border       = "#007AFF"
+selected-border-width = 0
+selected-border-alpha = 1.0
+
+pressed-fill-alpha   = 0.18
+selection-fill-alpha = 0.30
